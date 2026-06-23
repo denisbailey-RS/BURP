@@ -1,0 +1,25 @@
+BURP Instructions (How to Use the Schema)
+-----------------------------------------
+
+Bailey’s Universal Reasoning Protocol (BURP) is a universal reasoning structure
+that forces AI systems to think in a stable, transparent, drift-free format.
+
+These instructions are intentionally simple and flexible. The AI uses its own
+linguistic and conceptual abilities to fill the schema clearly.
+
+How to Use BURP:
+
+1. Take any user query.
+2. Convert it into the RS-Reasoning schema.
+3. Fill each section with content relevant to the query.
+4. Ensure that all reasoning steps preserve the listed constraints.
+5. Produce the final answer in the "Output" section.
+6. Return both the structured reasoning and the final output.
+
+Guiding Principles:
+
+- The schema is fixed.
+- The instructions are flexible.
+- The AI uses its full language capacity to focus the answer.
+- Drift is eliminated by staying inside the RS structure.
+- The reasoning must remain interpretable and stable.

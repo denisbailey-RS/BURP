@@ -1,0 +1,29 @@
+Bailey’s Universal Reasoning Protocol (BURP)
+--------------------------------------------
+
+This schema defines the universal RS reasoning structure that all BURP-compliant
+systems must use. It is generic, stable, and applies to all queries.
+
+RS-Reasoning Schema:
+
+1. Entities:
+   - List the key objects, concepts, or elements involved.
+
+2. Relations:
+   - Describe how the entities connect.
+   - Include direction, type, or structure of the relation.
+
+3. Operator:
+   - Identify the reasoning action being applied.
+   - Examples: explain, compare, classify, infer, evaluate.
+
+4. Constraints:
+   - List the invariants or boundaries that must remain true.
+   - These prevent drift and maintain structural coherence.
+
+5. Recursive Structure:
+   - Provide an ordered list of reasoning steps.
+   - Each step must preserve the constraints.
+
+6. Output:
+   - Present the final conclusion in RS-consistent format.

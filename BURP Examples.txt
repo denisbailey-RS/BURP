@@ -1,0 +1,33 @@
+BURP Examples
+-------------
+
+Example Query:
+"Why do birds migrate?"
+
+Filled Schema:
+
+Entities:
+  - Birds
+  - Seasonal environments
+  - Food availability
+
+Relations:
+  - Birds depend on seasonal environments.
+  - Seasonal changes affect food availability.
+
+Operator:
+  - Explain
+
+Constraints:
+  - Preserve ecological causality.
+  - Maintain directionality of relations.
+
+Recursive Structure:
+  1. Identify the biological subject (birds).
+  2. Identify environmental factors (seasons, food).
+  3. Connect environmental changes to bird behavior.
+  4. Check that explanation preserves causal direction.
+
+Output:
+  Birds migrate because seasonal changes reduce food availability, and migration
+  allows them to maintain access to necessary resources.
